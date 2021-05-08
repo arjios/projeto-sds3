@@ -5,6 +5,7 @@ import { SaleSum } from 'types/Sale';
 import { useState } from 'react';
 import { useEffect } from 'react';
 
+
 type ChartData = {
     labels: string[];
     series: number[];
